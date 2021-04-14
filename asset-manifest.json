@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/masoodReactApp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/masoodReactApp/static/js/main.a830b19d.chunk.js",
+    "main.js.map": "/masoodReactApp/static/js/main.a830b19d.chunk.js.map",
+    "runtime-main.js": "/masoodReactApp/static/js/runtime-main.0ec811ec.js",
+    "runtime-main.js.map": "/masoodReactApp/static/js/runtime-main.0ec811ec.js.map",
+    "static/css/2.d15b5569.chunk.css": "/masoodReactApp/static/css/2.d15b5569.chunk.css",
+    "static/js/2.935d5ba3.chunk.js": "/masoodReactApp/static/js/2.935d5ba3.chunk.js",
+    "static/js/2.935d5ba3.chunk.js.map": "/masoodReactApp/static/js/2.935d5ba3.chunk.js.map",
+    "static/js/3.71b870f1.chunk.js": "/masoodReactApp/static/js/3.71b870f1.chunk.js",
+    "static/js/3.71b870f1.chunk.js.map": "/masoodReactApp/static/js/3.71b870f1.chunk.js.map",
+    "index.html": "/masoodReactApp/index.html",
+    "static/css/2.d15b5569.chunk.css.map": "/masoodReactApp/static/css/2.d15b5569.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/masoodReactApp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.935d5ba3.chunk.js.LICENSE.txt": "/masoodReactApp/static/js/2.935d5ba3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/masoodReactApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ec811ec.js",
+    "static/css/2.d15b5569.chunk.css",
+    "static/js/2.935d5ba3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a830b19d.chunk.js"
+  ]
+}
