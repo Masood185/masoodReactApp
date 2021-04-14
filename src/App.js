@@ -3,17 +3,18 @@ import React, { useState } from 'react';
 import './App.css';
 import Login from './components/Login';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-// import Registration from './components/Login';
+ import Header from './components/Header';
 
  import Greet from './components/Greet';
+import PostData from './components/PostData';
 
 function App() {
 
-  
   const [token, setToken] = useState();
   if(!token) {
     return <Login setToken={setToken} />
   }else{
+
     return <Greet setToken={setToken} />
 
   }
@@ -30,6 +31,8 @@ function App() {
 
 //     </div>
 //   );
+
+
  }
 
 export default App;
